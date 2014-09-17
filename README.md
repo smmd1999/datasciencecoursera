@@ -1,3 +1,3 @@
 datasciencecoursera
 ===================
-### Sm's repository.
+### SM's repository.
